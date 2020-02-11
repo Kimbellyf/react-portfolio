@@ -13,6 +13,7 @@ class App extends Component{
       <div>
         <Navigation logoTitle="Kimbelly Ferraz"/>
         <Header title= "K" button="Veja mais"/>
+        <Services></Services>
       </div>
     );
   }

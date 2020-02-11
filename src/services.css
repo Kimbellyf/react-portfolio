@@ -11,3 +11,10 @@
     margin: 0;
     padding: 0;
 }
+.services h2{
+    font-size: 48px;
+    text-transform: uppercase;
+    color: fff;
+    margin-top: 0;
+    padding: 0;
+}
