@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import logo from './logo.svg';
 import './Navigation.css';
 import { render } from '@testing-library/react';
 
@@ -13,7 +12,7 @@ class  Navigation extends Component{
         });
         return (
             <nav>
-                <h2 className="logo"> {this.props.logoTitle}>React project</h2>
+                <h2 className="logo"> {this.props.logoTitle}</h2>
 
                 <ul>
                     {navLinks}

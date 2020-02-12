@@ -5,7 +5,9 @@ import './App.css';
 import Navigation from './Navigation';
 import Header from './Header';
 import registerServiceWorker from './serviceWorker';
-import Services from './Services';
+import Services from './Services'
+import Footer from './componentspage/footer';
+import Contact from './componentspage/contact';
 
 class App extends Component{
   render(){
@@ -14,6 +16,8 @@ class App extends Component{
         <Navigation logoTitle="Kimbelly Ferraz"/>
         <Header title= "K" button="Veja mais"/>
         <Services></Services>
+        <Contact></Contact>
+        <Footer></Footer>
       </div>
     );
   }

@@ -1,12 +1,12 @@
-header h2{
+header{
     margin: 0 auto;
     text-align: center;
-    padding-top: 500px;
+    padding-top: 300px;
 }
 header h1{
     margin: 0;
     font-size: 4rem;
-    color: rgb(33,37,41);
+    color: rgb(119, 129, 139);
 }
 header p{
     font-weight: 700;
@@ -14,9 +14,6 @@ header p{
     font-size:  1.75rem;
     margin-bottom: 30px;
     
-}
-.h3, h3{
-    font-size: 1.75rem;
 }
 header a{
     box-shadow: 0 3px 3px 0 rgba(0,0,0,.1);

@@ -4,8 +4,10 @@ import './Header.css';
 
 const mystyles = {
     backgroundImage: `url( ${Background} )`,
-    height: '80vh',
-    backgroundSize: 'cover'
+    height: '50vh',
+    backgroundSize: 'cover',
+    backgroundPosition: 'center',
+    backgroundRepeat: 'no-repeat',
 }
 class Header extends Component{
 
