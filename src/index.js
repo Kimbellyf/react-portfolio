@@ -1,11 +1,10 @@
-
 import React from 'react';
 import ReactDOM from 'react-dom';
-//import './index.css';
+import './index.css';
 import App from './App';
-import Navigation from './Navigation';
-import Header from './Header';
-import Services from './Services'
+import Navigation from './componentspage/testeum/Navigation';
+import Header from './componentspage/testeum/Header';
+import Services from './componentspage/testeum/Services'
 
 import * as serviceWorker from './serviceWorker';
 
