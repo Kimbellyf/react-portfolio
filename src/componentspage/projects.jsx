@@ -157,18 +157,14 @@ export default class Projects extends React.Component {
 							<img src={aguaDeLuz} alt=""/>
 						</div>
 						<div className="modal-info">
-							<h2>Agua De Luz</h2>
+							<h2>CancerDara</h2>
 							<div className="modal-description">
 								<ul>
 									<li>
-										Prototype website to promote health
-										natural-made products to increase brand
-										and online presence.
+										"Site" desenvolvido para análise de dados sobre o câncer de mama e oncologia em geral
 									</li>
 									<li>
-										Developed with HTML5, CSS3, Bootstrap,
-										Webpack, Parallax Effect,
-										SmoothScrolling(UI), and VanillaJS.
+										MySQL, Flask, Python
 									</li>
 								</ul>
 							</div>
@@ -207,15 +203,14 @@ export default class Projects extends React.Component {
 							<img src={todo} alt=""/>
 						</div>
 						<div className="modal-info">
-							<h2>To-Do List</h2>
+							<h2>Livros</h2>
 							<div className="modal-description">
 								<ul>
 									<li>
-										A to-do list to keep track of goals.
+										Lista de livros
 									</li>
 									<li>
-										Developed with HTML5, CSS3, Bootstrap,
-										Webpack, and ReactJS.
+										Desenvolvido em Android
 									</li>
 								</ul>
 							</div>
